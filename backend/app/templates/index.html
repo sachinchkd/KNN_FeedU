@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Recommendation System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            background-color: #f5f5f5;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Food Recommendation System</h1>
+    <p>Tell us what you're looking for, and we'll recommend the perfect restaurant!</p>
+    
+    <form action="/predict" method="POST">
+        <div class="form-group">
+            <label for="location">Location:</label>
+            <select name="location" id="location" required>
+                <option value="" disabled selected>Select a location</option>
+                {% for location in locations %}
+                <option value="{{ location }}">{{ location }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="price_range">Price Range:</label>
+            <select name="price_range" id="price_range" required>
+                <option value="" disabled selected>Select a price range</option>
+                {% for price in price_ranges %}
+                <option value="{{ price }}">{{ price.replace('price_range_', '') }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="craving">What are you craving?</label>
+            <select name="craving" id="craving" required>
+                <option value="" disabled selected>Select food type</option>
+                {% for category in craving_categories %}
+                <option value="{{ category }}">{{ category.replace('Craving_Category_', '') }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        
+        <button type="submit">Get Recommendation</button>
+    </form>
+</body>
+</html>

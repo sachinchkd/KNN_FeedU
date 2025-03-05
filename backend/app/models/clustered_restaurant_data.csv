@@ -1,0 +1,676 @@
+Restaurant_name,Restaurant_url,Restaurant_location,Restaurant_minimum_order,Restaurant_additional_service_charge,Restaurant_additional_VAT,Restaurant_categories_name,Restaurant_categories_food_item_ingredient,Restaurant_categories_food_item_price,Cluster
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Soup,Cream of pumpkin soup with focaccia bread.,445.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Soup,Traditional minestrone soup served with focaccia bread,460.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Soup,Traditional Italian cream of tomato soup with focaccia bread.,445.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Organic Salad,"Mixed lettuce with boiled eggs, homemade dressing on the side",380.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Organic Salad,"Mixed lettuce with a boiled egg, homemade dressing on the side. With chicken, tuna or feta cheese.",585.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Organic Salad,"Italian style salad, homemade dressing on the side",380.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Organic Salad,"Tuna, onion, potato, tomato, olives and capers tossed inolive oil",610.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Organic Salad,"Italian style salad, homemade dressing on the side With chicken, tuna or feta cheese.",585.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Organic Salad,"Slices of fresh mozzarella and tomato with oregano, basil and olive oil.",620.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, mozzarella, sautéed onions",705.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato, pesto sauce, mozzarella, fried potatoes, oregano, rosemary",850.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, mozzarella, chicken, mushrooms, sun-dried tomatoes",850.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, mozzarella, spicy meat sauce, coriander, chilies",850.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, mozzarella, spinach, zucchini, bacon, garlic, parmesan",860.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, mozzarella, spinach, zucchini, mushrooms, garlic, parmesan",850.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, mozzarella, spinach, ricotta, parmesan",780.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, mozzarella, onion, olives, tuna, fresh tomato, rocket",840.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, sliced mozzarella, cherry tomatoes, pesto sauce",750.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, mozzarella, sun-dried tomatoes, rocket, oregano, garlic",750.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"Tomato sauce, mozzarella, Grilled Vegetables; zucchini, eggplant, red and yellow peppers, onions, garlic, black olives",850.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Signature Pizza (12 inch),"extra mozzarella cheese, cherry tomatoes, pesto",915.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,378.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,450.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,450.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,450.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,445.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,400.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,400.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce,mozzarella",348.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, aubergines, black olives, garlic",385.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, green peppers, jalapeños, green olives",390.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, ham",413.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, salami",413.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, mushrooms",450.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, cooked ham, artichokes, olives",433.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomatoes, mozzarella, ham, pineapple, green peppers, ginger, oregano",433.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, imported Italian anchovies, black olives, capers, oregano. served without cheese but optional",428.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,450.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,455.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,450.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,Unknown,415.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, olives, oregano",370.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, red and yellow peppers, olives,",518.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, sweet corn, chicken, potatoes, rosemary",450.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, pepperoni",413.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, mozzarella, ham, mushrooms",428.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Half & Half Pizza,"Tomato sauce, blue cheese, mozzarella, kanchan cheese, ricotta",445.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce,mozzarella",645.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, aubergines, black olives, garlic",720.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, green peppers, jalapeños, green olives",730.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, ham",775.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, salami",775.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella,mushrooms",850.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, olives, oregano",690.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, red and yellow peppers, olives,",985.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, sweet corn, chicken, potatoes, rosemary",850.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Mozzarella, ham, mushrooms, egg. Tomato sauce is optional",840.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Mozzarella, ricotta, potatoes, spinach. Tomato sauce is optional",805.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, pepperoni",775.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, ham, mushrooms",805.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, blue cheese, mozzarella, kanchan cheese, ricotta",840.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, mozzarella, cooked ham, artichokes, olives",815.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomatoes, mozzarella, ham, pineapple, green peppers, ginger, oregano",815.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Pizza,"Tomato sauce, imported Italian anchovies, black olives, capers, oregano. served without cheese but optional",805.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,265.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,265.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,265.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,265.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Spinach,165.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,180.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,265.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,250.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,165.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,250.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,180.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,265.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Extra Toppings for Pizza,Unknown,65.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Antipasti,Freshly oven baked foccacia bread with olive oil and melted mozzarella cheese ~ option for whole wheat crust,435.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Antipasti,Freshly oven baked pizza bread drizzled with imported olive oil.,320.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Antipasti,Freshly oven baked pizza bread drizzled with imported olive oil.,300.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Antipasti,"Choice of ham or salami with lettuce, cucumber and gherkins.",445.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Antipasti,"Tuna with lettuce, cucumber and tomatoes.",470.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Antipasti,Choice of Kanchan cheese and sun-dried tomatoes or mozzarella cheese and sun-dried tomatoes.,420.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Antipasti,"Light and crispy fried potato slices served with fresh, tangy tomato and guacamole",570.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,"Garlic, olive oil, chilli, capers",520.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,Homemade tomato sauce,545.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,"Tomatoes, aubergines, mozzarella, garlic",575.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,Egg and bacon,730.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,"Tomato sauce, black olives, capers, chilli",620.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,"Tomato sauce, bacon, onion",655.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,"Basil sauce ~ when available, Contains Nuts",750.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,Traditional Italian meat sauce,730.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,"Tomato sauce, imported Italian anchovies, olives, capers and chilies",685.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,"Marinated chicken breast with olive oil, mushrooms, tomatoes, herbs on a bed of spaghetti,rice or corn cakes .",1155.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,"Fresh tomatoes, parsley and king prawns on a bed of spaghetti",1155.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,Spaghetti with meatballs,710.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,Spaghetti with vegetarian dumplings,675.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Spaghetti Or Penne,Extra,100.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Risotto,Unknown,680.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Risotto,Unknown,785.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Risotto,Unknown,835.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Home Made Gnocchi,Unknown,510.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Home Made Gnocchi,Unknown,680.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Side Dishes,Unknown,235.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Side Dishes,Unknown,250.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Side Dishes,Unknown,250.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Side Dishes,Unknown,250.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Side Dishes,Unknown,365.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Side Dishes,Unknown,420.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Side Dishes,Unknown,320.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Dessert,Unknown,295.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Dessert,Unknown,295.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Dessert,Unknown,360.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Dessert,Unknown,315.0,5
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,"Layers of homemade pasta, tomato sauce, traditional Italian meat sauce and béchamel.",775.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,"Layers of homemade pasta, tomato sauce, seasonal vegetables and béchamel.",745.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,Unknown,640.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,Coarsely Ground Corn,550.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,Unknown,640.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,Unknown,640.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,Savoury Pancakes filled with Ham or Chicken and Mushroom topped with a creamy Parmesan sauce.,830.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,Oven baked Penne Pasta in Béchamel Sauce and Parmesan cheese.,575.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,"Béchamel sauce, onion, mushrooms, peas and Parmesan cheese with Chicken.",765.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,"Bechamel sauce, Onion, Mushrooms, Peas, Parmesan Cheese",680.0,2
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Oven Baked Dishes,"Savoury Pancakes filled with Mozzarella, Ricotta, Fresh Spinach topped with a creamy Parmesan sauce. and a hint of Tomato Sauce.",765.0,7
+Fire And Ice Pizzeria,https://foodmandu.com/Restaurant/Details/269,Thamel,500,10.0,Soup,Bottle Pickle Chilly,Unknown,130.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Salads,"MIXED LETTUCE, QUINOA, AVOCADO (SEASONAL) ROASTED NUTS, APRICOT, CHERRY TOMATOES, WITH HERBS VINAIGRETTE",550.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Salads,"ASSORTED LETTUCE, SMOKED CHICKEN, BACON CRISPS, BUTTER CROUTONS SERVED WITH CAESAR DRESSING AND PARMESAN CRISPS",650.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Salads,"ASSORTED LETTUCE, BUTTER CROUTONS SERVED WITH CAESAR DRESSING AND PARMESAN CRISPS",500.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Salads,"ROCKET LEAVES, SUN DRIED TOMATO & PARMESAN WITH BALSAMIC VINAIGRETTE",425.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Salads,"CHICKPEAS, BELL PEPPER, CUCUMBER, OLIVES, ROASTED NUTS, CHERRY TOMATOES, BEET ROOT & FETA CHEESE WITH HERBED VINAIGRETTE DRESSING",475.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Salads,"BELL PEPPER, CUCUMBER, ONION, BLACK OLIVES, TOMATO, FETA CHEESE & VINAIGRETTE",450.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,Homemade tortillas chips served with spicy salsa and guacamole sauce,315.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,Golden crispy onion rings with spicy sirancha mayo,350.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,"Chickpeas & tahini dip with olives, cucumber, olive oil,tomato, bell pepper, parsley & micro herbs served with pita bread",380.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,"Deep fried potato skin packed with refried beans, tomatoes, onion and melted cheese",440.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,"Smoked chicken marinated in nepali herbs, onion, coriander, garlic",450.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,"Baked tortilla chips with spicy tomato salsa, cheese, nachos sauce and sour cream",485.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,Mediterranean spiced potato wedges with garlic mayo,330.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,Mediterranean spiced potato wedges with bacon bits & garlic mayo,485.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,"Grilled skewered chicken cubes marinated in Mediterranean herbs, served on bed of potato wedges",575.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,"Asian inspired spicy chicken deep fried with green chilly, ginger garlic, mirin & soya sauce",575.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,Crispy Chicken Wings With Sweet Chilly Sauce,600.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,Steam Mo:Mo served with spicy tomato pickle,250.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,Steam Mo:Mo served with spicy tomato pickle,300.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Starters,"Marinated chicken, sukuti, peanuts,spicy potatoes, papad, soybean and chuira in typical Nepali style",700.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Tomato sauce, buffalo mozzarella, parmesan & basil.",570.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Mushroom, truffle oil, mozzarella & herbs.",700.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Jalapeño, corn, capsicum, roasted tomato, onion, black olive & cilantro.",710.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"spicy pork salami, mozzarella & herbs",820.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Smoked chicken, mozzarella cheese & herbs.",790.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Bacon, spinach, sun dried tomatoes & garlic",820.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Tomato, mozzarella, ham, mushroom, artichoke & olives",790.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Tomato, mozzarella, ham & pineapple",720.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Smoked chicken, jalapeño, corn, capsicum, roasted tomato, onion, black olive & cilantro.",795.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Ham, roasted mushroom & mozzarella and black olives",770.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,Local’s Favorite Roasted Chicken In Tandoori Spices,790.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"White sauce, smoky bacon or smoked chicken rosemary & Parmesan",770.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Feta cheese, cheery tomatoes, red onion, olives & oregano",690.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Mozzarella, yak cheese, Parmesan and cheddar cheese",810.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Tuna, chilli flakes, gherkins, onions & black olives",795.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Rocket leaves, sundried tomatoes & parmesan shaves",770.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Rocket leaves, sundried tomatoes & parmesan shaves",870.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,Unknown,870.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,Any four toppings- onions/ garlic/ tomato/ sundried tomatoes/ spinach/ bell pepper/ sweet corn/ pineapple/ rocket leaves/ grilled vegetables/ jalapeno pepper/ black olives/ basil pesto/ mushroom/ yak cheese/ parmesan/ mozzarella.,770.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,Any Four Toppings- Pepperoni / Smoked Chicken / Ham / Salami / Bacon / Spicy Tuna / Chicken Tandoori,920.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"mozzarella, boconccini, salami, ham, mushroom, capsicum & cherry tomatoes",915.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Mozzarella, Smoked Chicken, Pepperoni, Jalapeno & Cheddar Cheese",870.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Tomato sauce, mozzarella & slices of imported salami",820.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Combination of imported ham, salami and fresh mozzarella",820.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,Unknown,770.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pizza,"Seasonal grilled vegetables, sun dried tomoatoes & garlic",695.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,240.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,185.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,220.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,180.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,180.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,270.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,195.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,270.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,110.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,145.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,195.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,260.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,110.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,90.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,250.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,90.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,295.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,145.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,160.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,250.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,90.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,185.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,270.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,175.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,100.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Extra Toppings,Unknown,270.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,Imported Tomato Sauce With Fresh Basil Or Smoked Chicken Topped With Parmesan Shaving & Evoo,600.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,Imported Tomato Sauce With Fresh Basil Topped With Parmesan Shaving & Evoo,525.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,"Penne Pasta, Smoked Chicken, Sun Dried Tomatoes, Capers, Black Olives & Feta Cheese",600.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,"Penne Pasta, Mushroom, Sun Dried Tomatoes, Capers, Black Olives & Feta Cheese",550.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,Unknown,575.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,Unknown,600.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,Unknown,500.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,"SERVED WITH SPICY TOMATO SAUCE, BLACK OLIVES & RUCOLA",625.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,"SERVED WITH SPICY TOMATO SAUCE, BLACK OLIVES & RUCOLA",525.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,Penne Pasta Served With Creamy Truffle Mushroom Sauce Classic,650.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,"Spaghetti or penne pasta with choice of bacon, onions in a cream sauce with fresh egg, parmesan & black pepper",725.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,"Spaghetti or penne pasta with choice of mushroom, onions in a cream sauce with fresh egg, parmesan & black pepper",600.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,Unknown,750.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Pasta,"LAYERS OF FLAT PASTA WITH MEAT SAUCE IN TOMATO & BÉCHAMEL SAUCE, BEEF",850.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Sides,Unknown,300.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Sides,Unknown,350.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Sides,Unknown,150.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Sandwich & Burgers,"Brown bread with cheese, lettuce, tomato served with matchstick potatoes.",500.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Sandwich & Burgers,"Brown bread with ham, bacon, chicken, egg, cheese, lettuce, tomato served with matchstick potatoes.",650.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Sandwich & Burgers,"Grilled chicken patty, cheddar cheese, gherkins, lettuce, tomato, charred onion & mustard mayonnaise served with matchstick potatoes",700.0,2
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Mains,Served With Tartare Sauce,750.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Mains,Bread crumbed & fried tender chicken with loaded parmesan served in bed of pasta,850.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Mains,Barbequed Glazed Pork Chop Served With Roasted Garlic And Potatoes With Jalapeño,1100.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Mains,"Pan Seared Fish With Jalapeño Potatoes, And Lemon Butter Sauce",750.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Mains,"Imported Steak Grilled To Perfection With Mustard, Pepper And Mushroom Sauce Temperature (Mid-level, high-level)",1200.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Dessert,Unknown,350.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Dessert,Unknown,450.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Dessert,Unknown,425.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Dessert,Unknown,500.0,5
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Seasonal Special,"Mozzarella, Bocconcini, Salami, Ham, Mushroom, Capsicum, Cherry Tomato",915.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Seasonal Special,"Mozzarella, Avocado, Goat Cheese, Buffalo Mozzarella & Candied Walnuts",795.0,7
+Roadhouse Cafe Thamel,https://foodmandu.com/Restaurant/Details/174,Thamel,500,10.0,Salads,Seasonal Special,Blueberry Compote & Creamy Cheese In Vanilla Sponge,400.0,2
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Momo - Punjabi Style,Unknown,300.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Momo - Punjabi Style,Unknown,400.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Momo - Punjabi Style,Unknown,240.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Momo Punjabi Style,Unknown,350.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Momo Punjabi Style,Unknown,425.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Momo Punjabi Style,Unknown,325.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Meal Combos - Veg,Unknown,265.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Meal Combos - Veg,Unknown,250.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Meal Combos - Veg,Unknown,265.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Meal Combos - Veg,Unknown,375.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Meal Combos - Non Veg,Unknown,450.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Meal Combos - Non Veg,Unknown,400.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Biryani and Rice,Unknown,150.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Biryani and Rice,Unknown,150.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Biryani and Rice,Long Grain Basmati rice cooked in typical Amritsari style with Chicken and oriental spices in earthen pot on slow fire for 4 hours.,700.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Biryani and Rice,Mutton Lahori Biryani with Raita 750 Long Grain Basmati rice cooked in typical Karachi Style with Mutton and oriental spices in earthen pot on slow fire for 4 hours,1000.0,7
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Biryani and Rice,Long Grain Basmati rice cooked in typical Karachi Style with assorted vegetables and cottage cheese and oriental spices in earthen pot on slow fire for 4 hours.,550.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Starters,Pan fried onion rings in oriental batter,350.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Starters,"Finely chopped vegetables, spinach, green peas, cottage Cheeses bound together with Yellow lentils and green chilies. ( 40 MINUTES PREPARATION TIME )",380.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Starters,Unknown,490.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Starters,Unknown,450.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Starters,Unknown,350.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Starters,Unknown,350.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Starters,Unknown,390.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Starters,"Mince of mutton mixed with our selecion of herbs and spices, skewered in clay oven",800.0,7
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Starters,Unknown,550.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Starters,Unknown,1000.0,7
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Starters,Unknown,480.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Starters,Unknown,480.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Starters,Unknown,480.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Starters,Unknown,550.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Starters,Unknown,900.0,7
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Starters,Unknown,800.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Rolls,Unknown,375.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Rolls,Unknown,375.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Rolls,Unknown,240.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Rolls,Unknown,400.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Rolls,Unknown,430.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Rolls,Unknown,240.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,600.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,500.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,550.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,350.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,450.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,480.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,480.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,480.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,450.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,450.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,425.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,425.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,400.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Veg Main Course,Unknown,425.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,600.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,1000.0,7
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,580.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,650.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,550.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,580.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,950.0,7
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,650.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,450.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Non Veg Main Course,Unknown,550.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Rice Preparations,Unknown,700.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Rice Preparations,Unknown,550.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Rice Preparations,Unknown,150.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Rice Preparations,Unknown,150.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,40.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,60.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,80.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,100.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,120.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,150.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,200.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,120.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,120.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,250.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Bread,Unknown,200.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Sides,"Chopped vegetables, blended in curd topped up with selective spices.",150.0,4
+Mittraan Da Dhaba,https://foodmandu.com/Restaurant/Details/332,Hariharbhawan,500,10.0,5 Pcs Momo,Sides,"Urad Dal fritters, soaked overnight and topped up with a balanced sweet and salted creamy curd topped up with tangy chutneys, a must try famous Delhi street food.",250.0,4
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,300.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,250.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,250.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, smoke BBQ sauce and mozzarella pizza cheese.with green paper, onion, mushrooms, sweet corn special BBQ marinated fajita chicken",1050.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese with green paper, onion, mushrooms, special marinated fajita chicken.",1000.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, imported white ranch sauce and mozzarella pizza cheese, special BBQ marinated fajita chicken covered with white ranch sauce.",1000.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with pork pepperoni, green paper, onion, mushrooms, black olives, special marinated fajita chicken.",1100.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese with green paper, onion, fresh jalapeno diced, green chilli, special marinated chilli fajita chicken",1000.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni & pineapple.",1000.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese.",1000.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese with green paper, onion, mushrooms, black olives, fresh diced tomato",1000.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,1100.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni.& Fresh Jalapeno.",1000.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni & mushrooms.",1000.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni",1000.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with pork pepperoni, green paper, onion, mushrooms, black olives, special marinated fajita chicken.",850.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,850.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese with green paper, onion, mushrooms, black olives, fresh diced tomato",750.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese with green paper, onion, fresh jalapeno diced, green chilli, special marinated chilli fajita chicken",750.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni & mushrooms.",750.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni.& Fresh Jalapeno.",750.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese",700.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni & pineapple.",800.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, imported white ranch sauce and mozzarella pizza cheese, special BBQ marinated fajita chicken covered with white ranch sauce.",800.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese with green paper, onion, mushrooms, special marinated fajita chicken.",800.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, smoke BBQ sauce and mozzarella pizza cheese.with green paper, onion, mushrooms, sweet corn special BBQ marinated fajita chicken",800.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,650.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese with green paper, onion, mushrooms, black olives, fresh diced tomato",550.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese with green paper, onion, fresh jalapeno diced, green chilli, special marinated chilli fajita chicken",600.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, smoke BBQ sauce and mozzarella pizza cheese.with green paper, onion, mushrooms, sweet corn special BBQ marinated fajita chicken",650.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, imported white ranch sauce and mozzarella pizza cheese, special BBQ marinated fajita chicken covered with white ranch sauce.",600.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese with green paper, onion, mushrooms, special marinated fajita chicken.",550.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni & pineapple.",600.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni & mushrooms.",550.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni.& Fresh Jalapeno.",600.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese",500.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with imported pork pepperoni",550.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Extra,100.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,"Special classic fresh dough, pizza sauce and mozzarella pizza cheese covered with pork pepperoni, green paper, onion, mushrooms, black olives, special marinated fajita chicken.",650.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,200.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,150.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,200.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,200.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,250.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,250.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,250.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,300.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,200.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,450.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,550.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,350.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,200.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,250.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,300.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,450.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,450.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,1099.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,799.0,0
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,400.0,5
+The Full Moon Pizzeria Cafe,https://foodmandu.com/Restaurant/Details/570,Dhumbarahi,500,10.0,Lockdown Menu,Lockdown Menu,Unknown,599.0,0
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Unknown,695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","Smoke chicken , bacon, ham, seasonal veg with mozzarella cheese",795.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","Tomato sauce, Mozzarella cheese and basil",550.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Mozzarella cheese with Mushroom,640.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","Smoked Chicken,Ham,Salami,Chicken Sausage with mozzarella cheese",795.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Mozzarella cheese and Double Kanchan cheese,670.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","(Grilled Onion, Tandoori style chicken and mozzarella cheese)",695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Unknown,695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Unknown,675.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Fully loaded with smoked chicken and bacon with mozzarella cheese,710.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","Ham, pineapple with Mozzarella cheese",695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","Tomato sauce, smoked chicken pineapple with mozzarella cheese",695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Unknown,695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Unknown,675.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","Ham, salami, tomato sauce with mozzarella sauce",695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Unknown,650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","Tomato sauce, chicken chhoyla and mozzarella cheese",695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","Smoked chicken, bell paper, corn, jalapeno pepper, olives, onion, tomato sauce with mozzarella cheese",710.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","Tomato sauce, bell paper, corn, jalapeno pepper with mozzarella cheese, olives, onion",630.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","White sauce, mozzarella cheese and bacon",695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","White sauce, mozzarella cheese and mushroom",650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza","White sauce, mozzarella cheese and smoked chicken",695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Unknown,675.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),"12"" Firewood Pizza",Seasonal Grilled veg with mozzarella cheese,650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,150.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,195.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,95.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,195.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,135.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,135.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,75.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,75.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,195.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,125.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,150.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,125.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,195.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,195.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,100.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,195.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,75.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,100.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Extra Toppings on Pizza,Unknown,150.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,465.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,425.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,425.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,495.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,795.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,795.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,450.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,795.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,425.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,425.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,425.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,410.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,450.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,450.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,410.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,465.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,950.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,410.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Non-Veg),Unknown,650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,250.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,375.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,310.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,375.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,320.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,395.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,395.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,235.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,375.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,395.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,295.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,225.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Appetizer (Veg),Unknown,375.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Unknown,310.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Unknown,280.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,"Fresh farm lettuce, tomato, onion with balsamic vinegar dressing and chicken",450.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,"Fresh farm lettuce, tomato, onion with balsamic vinegar dressing",350.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Unknown,310.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Unknown,320.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Unknown,395.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Unknown,310.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Unknown,455.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Unknown,295.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,"Kanchan cheese, smoked chicken, grilled prawn with creamy dressing",695.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Mix lettuce with caesar dressing and smoked chicken,450.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,Mix lettuce with caesar dressing,350.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,"Cucumber, raddish and carrot,",255.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Soups & Salad,"Chopped onion,carrot, bell pepper, cucumber,tomato with italian dressing",430.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Pasta,"Tossed with bacon, cheese, egg yolk with cream sauce",495.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Pasta,"Tossed with mushroom, cheese with cream sauce",425.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Pasta,Served with chicken meat sauce and tomato sauce with cheese,475.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Pasta,"Tomato sauce, olive and capers with cheese",425.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Pasta,"Smoked chicken, olive, tomato sauce capers, cheese",495.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Pasta,Unknown,395.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Sandwich,Served with french fries and coleslaw,450.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Sandwich,Served with french fries and coleslaw,350.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Sandwich,Served with french fries and coleslaw,375.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Mo:Mo,Unknown,295.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Mo:Mo,Unknown,325.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Mo:Mo,Unknown,325.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Mo:Mo,Unknown,225.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Mo:Mo,Unknown,250.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Mo:Mo,Unknown,250.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Sizzler Dish,"Leg part chicken topped with mustard sauce, accompaniment with vegetable and noodle",650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Sizzler Dish,"Grilled fish topped with mustard sauce, accompaniment with vegetable and noodle",650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Sizzler Dish,"Grilled fresh trout grilled topped with mustard sauce, accompaniment with vegetable and noodle",950.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Sizzler Dish,"Vegetable cutlet topped with mustard sauce, accompaniment with vegetable and noodle",495.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Sekuwa (BBQ),Unknown,455.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Sekuwa (BBQ),Unknown,650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Noodles / Thukpa / Fried Rice,Unknown,280.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Noodles / Thukpa / Fried Rice,Unknown,310.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Noodles / Thukpa / Fried Rice,Unknown,310.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Noodles / Thukpa / Fried Rice,Unknown,280.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Noodles / Thukpa / Fried Rice,Unknown,310.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Noodles / Thukpa / Fried Rice,Unknown,280.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Biryani,Unknown,495.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Biryani,Unknown,650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Biryani,Unknown,410.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Main Course,Becky Grilled Fish served with french fries and grilled vegetables.,650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Main Course,"Fresh Grilled trout, served with french fries and grilled vegetables.",950.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Main Course,Grilled chicken served with french fries and vegetables,650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Main Course,"Spicy chicken deep fried, rich in G & G flavor serve with plain rice",595.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Main Course,"Mongolian prawn deep fried, rich in G & G flavor serve with plain rice",850.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Main Course,"Becty Fish Battered and deep fried, Served with french fries and Tartar sauce.",650.0,8
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Indian Corner,1 Piece,55.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Indian Corner,Unknown,225.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Indian Corner,Unknown,280.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Indian Corner,Unknown,495.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Indian Corner,Unknown,490.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Indian Corner,Unknown,450.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Indian Corner,Unknown,125.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Indian Corner,Unknown,490.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Side Order,Unknown,175.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Dessert,Unknown,275.0,1
+Bricks Cafe Firewood Pizza,https://foodmandu.com/Restaurant/Details/188,Kupondole,500,10.0,( Buy Any Two Pizza And Get One Chicken Momo Free ),Dessert,Unknown,280.0,1
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza Combo,Margherita / Salad/ Chicken ( Al Pollo ) / Veg ( Napolitano) / Salami ( Al Peporoni ),1099.0,7
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce,mixed lettuce , capsicum,onion cottage cheese with herbs topping)",508.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce,mixed lettuce , capsicum,onion cottage cheese with herbs topping)",716.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce with herbs topping)",428.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce with herbs topping)",596.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, mushroom, tomato sauce with herbs topping)",508.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, mushroom, tomato sauce with herbs topping)",716.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, salami with herbs topping)",508.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, salami with herbs topping)",716.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, Chicken with herbs topping)",524.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, Chicken with herbs topping)",740.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, ham with herbs topping)",508.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, ham with herbs topping)",716.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, capsicum, olive, onion, mushroom with herbs topping)",468.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, capsicum, olive, onion, mushroom with herbs topping)",660.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Tomato, mozzarella cheese, ham, pineapple, green peppers, oregano)",508.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Tomato, mozzarella cheese, ham, pineapple, green peppers, oregano)",716.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, ham, salami, black olive, mushroom, baby corn, Pineapple, chicken with herb topping)",596.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Pizza,"(Mozzarella cheese, tomato sauce, ham, salami, black olive, mushroom, baby corn, Pineapple, chicken with herb topping)",860.0,7
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,140.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,180.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,196.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,156.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,196.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,204.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,156.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,196.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,204.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,260.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,220.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Mo:Mo,Unknown,180.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Main Course,Unknown,428.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Wood Fired Main Course,Unknown,479.2,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Snacks,Unknown,236.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Snacks,Unknown,236.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Snacks,Unknown,236.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Snacks,Unknown,228.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Snacks,Unknown,316.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Snacks,Unknown,236.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Snacks,Unknown,140.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Special Items,Unknown,500.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Special Items,Unknown,508.0,2
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Burger,Unknown,156.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Burger,Unknown,180.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Burger,Unknown,180.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Newari Items,Per 4 pcs,160.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Newari Items,Per 4 pcs,184.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Newari Items,per plate,120.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Newari Items,per pcs,60.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Every extra topping,"(Mushroom, olive, capers, baby corn, capsicum, pineapple, onion, spinach, garlic)",84.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Every extra topping,"(Mushroom, olive, capers, baby corn, capsicum, pineapple, onion, spinach, garlic)",124.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Every extra topping,"(Ham, salami, chicken, mozzarella cheese, yak cheese, anchovies)",100.0,5
+Baardali Cafe,https://foodmandu.com/Restaurant/Details/1038,Thamel,500,10.0,Choose any one pizza,Every extra topping,"(Ham, salami, chicken, mozzarella cheese, yak cheese, anchovies)",156.0,5
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Unknown,675.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Unknown,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Unknown,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Cucumber.,539.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Unknown,650.25,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Unknown,650.25,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Unknown,650.25,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Ebi Maki.,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Unknown,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Sushi Maki,Unknown,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,509.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,509.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,594.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,509.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,424.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,424.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,509.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,509.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,594.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Donburi ( Exclusive on Foodmandu ),Unknown,594.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1695.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1015.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1015.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1015.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1015.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1015.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1695.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1695.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1695.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1695.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1695.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Special Sushi,Unknown,1695.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,845.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,845.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,845.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,845.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,845.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Bento Box (with rice + 3 side dishes),Unknown,930.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dishes Non Veg,Unknown,1270.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dishes Non Veg,Unknown,1100.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dishes Non Veg,Unknown,1270.75,6
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dishes Non Veg,Unknown,845.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dishes Non Veg,Unknown,718.25,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dishes Non Veg,Unknown,607.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dishes Non Veg,Unknown,607.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,420.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,233.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,212.5,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,467.5,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,548.25,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,548.25,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,420.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,488.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,310.25,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,590.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,590.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,650.25,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,675.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,760.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Starters/Side Dishes/ Extras,Unknown,590.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dish Veg,Unknown,552.5,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dish Veg,Unknown,637.5,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dish Veg,Unknown,552.5,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dish Veg,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Main Dish Veg,Unknown,488.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Okonomiyaki,Unknown,590.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Okonomiyaki,Unknown,590.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Okonomiyaki,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Okonomiyaki,Unknown,522.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Okonomiyaki,Unknown,510.0,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Condiments,Unknown,42.5,5
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Condiments,Unknown,42.5,5
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Condiments,Unknown,42.5,5
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Condiments,Unknown,42.5,5
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Condiments,Unknown,42.5,5
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,612.0,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,382.5,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,552.5,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,0% Alcohol,849.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,0% Alcohol,424.15,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,335.75,3
+Sapporo Japanese Restaurant,https://foodmandu.com/Restaurant/Details/504,Baluwatar,500,10.0,( 8 Pieces ),Beverages,Unknown,505.75,3
