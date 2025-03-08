@@ -93,13 +93,5 @@ def predict():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# Add this at the end of your app.py file
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
 
-# Make sure your Flask app is properly initialized
-# If your routes are in a different file, make sure they're properly imported
-
-# For Vercel serverless deployment
-app.debug = False
     
