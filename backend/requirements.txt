@@ -15,7 +15,6 @@ flask-cors==5.0.1
 fonttools==4.56.0
 fsspec==2025.2.0
 fuzzywuzzy==0.18.0
-gunicorn==20.1.0
 ipykernel==6.29.5
 ipython==9.0.0
 ipython_pygments_lexers==1.1.1
@@ -49,7 +48,6 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 python-Levenshtein==0.26.1
 pytz==2025.1
-pywin32==308
 PyYAML==6.0.2
 pyzmq==26.2.1
 RapidFuzz==3.12.1
@@ -64,5 +62,6 @@ tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
 tzdata==2025.1
+waitress==3.0.2
 wcwidth==0.2.13
 Werkzeug==3.1.3
