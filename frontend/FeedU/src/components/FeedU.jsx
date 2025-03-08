@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import './index.css';
 
 const FoodRecommendation = () => {
   // State for form inputs and options
@@ -155,13 +154,4 @@ const FoodRecommendation = () => {
   );
 };
 
-// App component
-const App = () => {
-  return (
-    <div className="min-h-screen bg-gray-100 py-12">
-      <FoodRecommendation />
-    </div>
-  );
-};
-
-export default App;
+export default FoodRecommendation;
